@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|d:\\github\\library\\media-player-wpf\\source code\\mediaplayer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|d:\\github\\library\\media-player-wpf\\source code\\mediaplayer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|d:\\github\\library\\media-player-wpf\\source code\\mediaplayer\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|d:\\github\\library\\media-player-wpf\\source code\\mediaplayer\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|d:\\github\\library\\media-player-wpf\\source code\\mediaplayer\\addplaylist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2442BC7C-8B80-4129-9886-92792F41E967}|MediaPlayer\\MediaPlayer.csproj|solutionrelative:mediaplayer\\addplaylist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Video.cs",
+              "DocumentMoniker": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\Video.cs",
+              "RelativeDocumentMoniker": "MediaPlayer\\Video.cs",
+              "ToolTip": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\Video.cs",
+              "RelativeToolTip": "MediaPlayer\\Video.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:50:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\Playlist.cs",
+              "RelativeDocumentMoniker": "MediaPlayer\\Playlist.cs",
+              "ToolTip": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\Playlist.cs",
+              "RelativeToolTip": "MediaPlayer\\Playlist.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:50:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPlaylist.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\AddPlaylist.xaml.cs",
+              "RelativeDocumentMoniker": "MediaPlayer\\AddPlaylist.xaml.cs",
+              "ToolTip": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\AddPlaylist.xaml.cs",
+              "RelativeToolTip": "MediaPlayer\\AddPlaylist.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:50:33.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MediaPlayer\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MediaPlayer\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4CAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:48:18.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MediaPlayer\\MainWindow.xaml",
+              "ToolTip": "D:\\GitHub\\Library\\Media-player-WPF\\source code\\MediaPlayer\\MainWindow.xaml",
+              "RelativeToolTip": "MediaPlayer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T13:48:14.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
